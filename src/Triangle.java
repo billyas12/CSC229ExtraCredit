@@ -24,3 +24,5 @@ public class Triangle {
         System.out.println("Number of entries that are not divisible by 7: " + result);
     }
 }
+//Time: O(n^2)
+//Space: O(n^2)
