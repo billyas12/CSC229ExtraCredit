@@ -27,3 +27,5 @@ public class MergeSortedArrays {
         }
     }
 }
+//Time:O(n)
+//Space: O(1)
