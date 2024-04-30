@@ -28,3 +28,5 @@ public class AnagramSorter {
         }
     }
 }
+//Time: O(n * logn)
+//Space: O(1)
